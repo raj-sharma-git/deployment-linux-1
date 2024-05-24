@@ -3,5 +3,5 @@ module.exports = {
     {
      script: "npx serve dist -s"
     }
-        ]
+ ]
 };
